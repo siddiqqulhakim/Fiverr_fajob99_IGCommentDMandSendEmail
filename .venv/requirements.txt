@@ -1,0 +1,6 @@
+requests
+undetected_chromedriver
+selenium
+pyinstaller
+pywin32
+pandas
